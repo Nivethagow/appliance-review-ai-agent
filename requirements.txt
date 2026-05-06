@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+nltk
+textblob
+scikit-learn
+gensim
+ace-tools-open
+joblib
