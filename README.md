@@ -152,6 +152,4 @@ appliance-review-ai-agent/
 
 ---
 
-## 📄 License
 
-This project is for academic and research purposes.
